@@ -1,0 +1,8 @@
+{
+  "name": "single-url-proxy",
+  "description": "Proxy from heroku to some other server",
+  "keywords": [
+  ],
+  "website": "http://github.com/almost/single-url-proxy",
+  "repository": "http://github.com/almost/single-url-proxy"
+}
