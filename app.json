@@ -3,12 +3,12 @@
   "description": "Proxy from heroku to some other server",
   "keywords": [
   ],
-  "website": "http://github.com/almost/single-url-proxy",
-  "repository": "http://github.com/almost/single-url-proxy",
+  "website": "https://github.com/almost/single-url-proxy",
+  "repository": "https://github.com/almost/single-url-proxy",
   "env": {
-    "COOKIE_SECRET": {
-            "description": "This gets generated",
-            "value": "http://example.com/`"
+    "URL": {
+            "description": "The URL to proxy to",
+            "value": "http://example.com/"
     }
   }
 }
