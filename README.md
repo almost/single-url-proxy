@@ -5,13 +5,11 @@ Proxy all requests to a single url (supplied as a config). Written to run on Her
 
 Based on the Heroku sample Go app.
 
-Written by Thomas Parslow 
-
-Create your online Escape Rooms using [Telescape Live](https://telescapelive.com)
+Written by Thomas Parslow of [Buzzshot](https://buzzshot.co). Create your online Escape Rooms using [Telescape Live](https://telescapelive.com)
 
 Deploy to herokku now by hitting the button below!
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/almost/single-url-proxy.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 
 ## Running Locally
 
