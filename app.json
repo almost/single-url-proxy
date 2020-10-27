@@ -4,5 +4,11 @@
   "keywords": [
   ],
   "website": "http://github.com/almost/single-url-proxy",
-  "repository": "http://github.com/almost/single-url-proxy"
+  "repository": "http://github.com/almost/single-url-proxy",
+  "env": {
+    "COOKIE_SECRET": {
+            "description": "This gets generated",
+            "value": "http://example.com/`"
+    }
+  }
 }
