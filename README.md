@@ -5,6 +5,10 @@ Proxy all requests to a single url (supplied as a config). Written to run on Her
 
 Based on the Heroku sample Go app.
 
+Written by Thomas Parslow 
+
+Create your online Escape Rooms using [Telescape Live](https://telescapelive.com)
+
 ## Running Locally
 
 Make sure you have [Go](http://golang.org/doc/install) version 1.12 or newer and the [Heroku Toolbelt](https://toolbelt.heroku.com/) installed.
@@ -30,4 +34,4 @@ $ heroku open
 
 or
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/almost/single-url-proxy)
