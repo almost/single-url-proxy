@@ -9,6 +9,10 @@ Written by Thomas Parslow
 
 Create your online Escape Rooms using [Telescape Live](https://telescapelive.com)
 
+Deploy to herokku now by hitting the button below!
+
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/almost/single-url-proxy.git)
+
 ## Running Locally
 
 Make sure you have [Go](http://golang.org/doc/install) version 1.12 or newer and the [Heroku Toolbelt](https://toolbelt.heroku.com/) installed.
@@ -32,6 +36,4 @@ $ git push heroku main
 $ heroku open
 ```
 
-or
-
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/almost/single-url-proxy)
+or use the deploy button above.
